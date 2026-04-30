@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Ángel Rai Martínez Balanzar</h1>
 <h3 align="center">Un apasionado desarrollador frontend de México</h3>
 
-- 🔭 Actualmente trabajo con **Python**
+- 🔭 Actualmente trabajo con **JAVA**
 
 - 🌱 Actualmente estoy aprendiendo **PYTHON**
 
